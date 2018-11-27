@@ -10,9 +10,9 @@ const examples = {
   'example1':
       'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'Gregory loves the lord.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'If a whale flew to mars could it live in water.'      
 };
 
 function status(statusText) {
